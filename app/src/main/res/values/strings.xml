@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parare</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Login</string>
+    <string name="subject">Subjects</string>
+    <string name="is_subject">Subject?</string>
+    <string name="task_name">Task Name</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="date">Date</string>
+    <string name="section">Section</string>
+    <string name="place_until">Auto Place Until</string>
+</resources>
